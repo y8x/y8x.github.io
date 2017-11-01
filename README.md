@@ -1,4 +1,4 @@
-## Welcome to nothingness.
+## welcome to nothingness
 
 You can use the [editor on GitHub](https://github.com/y8x/y8x.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
